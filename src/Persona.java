@@ -2,7 +2,7 @@
 /**
  * Created by cristian on 20/05/17.
  */
-public class Lavaplato {
+public class Persona {
 
     private int tenedor;
     private int cuchillo;
@@ -10,7 +10,7 @@ public class Lavaplato {
     private int plato;
     private int vaso;
 
-    public Lavaplato(int tenedor, int cuchillo, int cuchara, int plato, int vaso) {
+    public Persona(int tenedor, int cuchillo, int cuchara, int plato, int vaso) {
         this.tenedor = tenedor;
         this.cuchillo = cuchillo;
         this.cuchara = cuchara;
